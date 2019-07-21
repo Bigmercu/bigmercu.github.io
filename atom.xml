@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>空气稀薄1</title>
+  <title>空气稀薄</title>
   
-  <subtitle>没有一只家雀掉下来的时候上帝不知道1。</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://lswks.github.io/"/>
-  <updated>2018-01-07T13:33:15.000Z</updated>
+  <updated>2019-07-21T16:45:13.349Z</updated>
   <id>http://lswks.github.io/</id>
   
   <author>
@@ -15,6 +15,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《红日》 -曹禹 舞台剧</title>
+    <link href="http://lswks.github.io/2019/07/22/%E3%80%8A%E7%BA%A2%E6%97%A5%E3%80%8B-%E6%9B%B9%E7%A6%B9-%E8%88%9E%E5%8F%B0%E5%89%A7/"/>
+    <id>http://lswks.github.io/2019/07/22/《红日》-曹禹-舞台剧/</id>
+    <published>2019-07-21T16:44:21.000Z</published>
+    <updated>2019-07-21T16:45:13.349Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="拉片子" scheme="http://lswks.github.io/categories/%E6%8B%89%E7%89%87%E5%AD%90/"/>
+    
+    
+      <category term="拉片子" scheme="http://lswks.github.io/tags/%E6%8B%89%E7%89%87%E5%AD%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello screen writer!</title>
+    <link href="http://lswks.github.io/2019/07/21/hello-screen-writer/"/>
+    <id>http://lswks.github.io/2019/07/21/hello-screen-writer/</id>
+    <published>2019-07-21T15:39:28.000Z</published>
+    <updated>2019-07-21T16:17:55.753Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>没有一只家雀掉下来的时候上帝不知道。                                                                            ---《故事》</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;没有一只家雀掉下来的时候上帝不知道。
+
+
+                                                                            ---《故事》&lt;/code&gt;&lt;/pre&gt;
+      
+    
+    </summary>
+    
+      <category term="编剧" scheme="http://lswks.github.io/categories/%E7%BC%96%E5%89%A7/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello Again</title>
